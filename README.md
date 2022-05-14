@@ -8,7 +8,7 @@ I've been learning to code for 2+ years, i try many path for being developer suc
 
 *   🌍  I'm based in Buton, Southeast of Sulawesi
 *   ✉️  You can contact me at [131.powerfull@gmail.com](mailto:131.powerfull@gmail.com)
-*   🧠  I'm learning Java for native android developer and trying to focus here.
+*   🧠  Now, I'm learning Java for native android developer and trying to focus here.
 *   🤝  I'm open to collaborating on any project that i'ven been did before.
 *   ⚡  There is nothing we can do except ALLAH always be there.
 
