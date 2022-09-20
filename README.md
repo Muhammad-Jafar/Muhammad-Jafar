@@ -1,7 +1,7 @@
 Hi 👋 My name is Muhammad Jafar Sakone
 ======================================
 
-Software Engineer
+Software Developer
 -----------------
 
 I've been learning to code for 2+ years, i try many path for being developer such as frontend (html, css, javascript, bootstrap, php, codeigniter), android developer (java), game developer (unity with C#). Until now, still confused what focus that i should take in. For that, i just post my journey of apps that i made here for my little portfolio.
